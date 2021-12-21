@@ -14,15 +14,15 @@ import AlbaniaJPG from "./../../assets/albania.jpg";
 import { Link } from "react-router-dom";
 
 const locationData = [
-    { id: 1, location: "Bora Bora", isFeatured: true, img: BoraBoraJPG },
-    { id: 2, location: "Maldives", isFeatured: true, img: MaldivesJPG },
-    { id: 3, location: "Cabo San Lucas", isFeatured: false, img: CaboSanLucasJPG },
-    { id: 4, location: "Croatia", isFeatured: false, img: CroatiaJPG },
-    { id: 5, location: "Greece", isFeatured: false, img: GreeceJPG },
-    { id: 6, location: "Albania", isFeatured: true, img: AlbaniaJPG },
-    { id: 7, location: "Bora Bora", isFeatured: true, img: BoraBoraJPG },
-    { id: 8, location: "Maldives", isFeatured: true, img: MaldivesJPG },
-    { id: 9, location: "Cabo San Lucas", isFeatured: false, img: CaboSanLucasJPG },
+    { id: 1, location: "Foto 1", isFeatured: true, img: BoraBoraJPG },
+    { id: 2, location: "Foto 2", isFeatured: true, img: MaldivesJPG },
+    { id: 3, location: "Foto 3", isFeatured: false, img: CaboSanLucasJPG },
+    { id: 4, location: "Foto 4", isFeatured: false, img: CroatiaJPG },
+    { id: 5, location: "Foto 5", isFeatured: false, img: GreeceJPG },
+    { id: 6, location: "Foto 6", isFeatured: true, img: AlbaniaJPG },
+    { id: 7, location: "Foto 7", isFeatured: true, img: BoraBoraJPG },
+    { id: 8, location: "Foto 8", isFeatured: true, img: MaldivesJPG },
+    { id: 9, location: "Foto 9", isFeatured: false, img: CaboSanLucasJPG },
 ];
 
 const Locations = ({ page }) => {

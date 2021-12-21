@@ -19,7 +19,7 @@ const HomePageContent = () => {
             <div className={classes.hero__content__cta}>
                 <Button to="/booknow">Comprar Entradas</Button>
                 <Button to="/learnmore" outline>
-                    Learn More
+                    informacion
                 </Button>
             </div>
         </Fragment>

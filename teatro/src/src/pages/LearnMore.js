@@ -6,7 +6,7 @@ const LearnMore = () => {
     useScrollToTop();
     return (
         <Fragment>
-            <Hero isDynmic>Learn More</Hero>
+            <Hero isDynmic>Informacion</Hero>
         </Fragment>
     );
 };
