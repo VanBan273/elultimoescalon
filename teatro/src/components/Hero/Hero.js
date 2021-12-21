@@ -28,14 +28,7 @@ const HomePageContent = () => {
 const Hero = ({ isDynmic, children }) => {
     return (
         <div className={classes.container}>
-            <video
-                autoPlay={false}
-                muted
-                loop
-                className={classes.video}
-                id={"video"}
-                src={coverVID}
-            ></video>
+           
             <div className={classes.hero}>
                 <div className={classes.hero__content}>
                     {!isDynmic && <HomePageContent />}

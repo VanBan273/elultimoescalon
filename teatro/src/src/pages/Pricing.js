@@ -6,7 +6,7 @@ const Pricing = () => {
     useScrollToTop();
     return (
         <Fragment>
-            <Hero isDynmic>Pricing</Hero>
+            <Hero isDynmic>FOTOS</Hero>
         </Fragment>
     );
 };

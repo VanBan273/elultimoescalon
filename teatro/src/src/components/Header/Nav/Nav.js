@@ -12,7 +12,7 @@ const Nav = ({ isMenu, menuToggle }) => {
                     <Link to="/locations">Locations</Link>
                 </li>
                 <li onClick={menuToggle}>
-                    <Link to="/pricing">Pricing</Link>
+                    <Link to="/pricing">FOTOS</Link>
                 </li>
                 <li onClick={menuToggle}>
                     <Link to="/learnmore">Learn More</Link>

@@ -8,7 +8,7 @@ import Logo from "../../UI/Logo/Logo";
 const footerColumns = [
     {
         id: 1,
-        headline: "About us",
+        headline: "Quienes somos",
         links: ["Pricing", "Our Story", "Testimonials", "Investors", "Terms of Service"],
     },
     {
@@ -67,7 +67,7 @@ const Footer = () => {
                 <div className={classes.footer__base}>
                     <Logo />
                     <span className={classes.footer__base__year}>
-                        Tropic&nbsp;&copy;&nbsp;{new Date().getFullYear()}
+                        El Ultimo Escalon&nbsp;&copy;&nbsp;{new Date().getFullYear()}
                     </span>
                     <ul className={classes.footer__base__socials}>
                         {socials.map((icon, index) => (
