@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/elultimoescalon/static/css/main.c27e5319.chunk.css",
+    "main.js": "/elultimoescalon/static/js/main.2ef118ab.chunk.js",
+    "main.js.map": "/elultimoescalon/static/js/main.2ef118ab.chunk.js.map",
+    "runtime-main.js": "/elultimoescalon/static/js/runtime-main.da532891.js",
+    "runtime-main.js.map": "/elultimoescalon/static/js/runtime-main.da532891.js.map",
+    "static/js/2.0066d749.chunk.js": "/elultimoescalon/static/js/2.0066d749.chunk.js",
+    "static/js/2.0066d749.chunk.js.map": "/elultimoescalon/static/js/2.0066d749.chunk.js.map",
+    "index.html": "/elultimoescalon/index.html",
+    "static/css/main.c27e5319.chunk.css.map": "/elultimoescalon/static/css/main.c27e5319.chunk.css.map",
+    "static/js/2.0066d749.chunk.js.LICENSE.txt": "/elultimoescalon/static/js/2.0066d749.chunk.js.LICENSE.txt",
+    "static/media/albania.4577f45e.jpg": "/elultimoescalon/static/media/albania.4577f45e.jpg",
+    "static/media/borabora.31faf583.jpg": "/elultimoescalon/static/media/borabora.31faf583.jpg",
+    "static/media/cabosanlucas.d20b499f.jpg": "/elultimoescalon/static/media/cabosanlucas.d20b499f.jpg",
+    "static/media/cover.071a2992.mp4": "/elultimoescalon/static/media/cover.071a2992.mp4",
+    "static/media/croatia.60ae64b7.jpg": "/elultimoescalon/static/media/croatia.60ae64b7.jpg",
+    "static/media/greece.fa9e2bf9.jpg": "/elultimoescalon/static/media/greece.fa9e2bf9.jpg",
+    "static/media/maldives.b748ef9c.jpg": "/elultimoescalon/static/media/maldives.b748ef9c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da532891.js",
+    "static/js/2.0066d749.chunk.js",
+    "static/css/main.c27e5319.chunk.css",
+    "static/js/main.2ef118ab.chunk.js"
+  ]
+}
